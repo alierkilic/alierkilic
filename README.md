@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/alierkilic/alierkilic/tree/master/img/fan-1.gif" alt="Fan" align="center">
+<img src="https://github.com/alierkilic/alierkilic/blob/master/img/fan-1.gif" alt="Fan" align="center">
 </div>
 
 <div align="center">
