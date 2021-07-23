@@ -19,7 +19,7 @@ to my personal GitHub profile!
 <hr>
 
 <div align="center">
-<h3 align="center">Random dev joke for you!</h3><br>
+<div align="center">Random dev joke for you!</div><br>
 <img align="center" src="https://readme-jokes.vercel.app/api?theme=%tokyonight" alt="README Jokes">
 </div>
 <hr>
