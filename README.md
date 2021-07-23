@@ -46,3 +46,8 @@ to my personal GitHub profile!
 <div align="center">
 <img src="https://github.com/alierkilic/alierkilic/blob/master/img/ie.jpeg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
+
+<hr>
+<div align="center">
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunsridher&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+</div>
