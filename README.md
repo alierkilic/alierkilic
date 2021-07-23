@@ -11,16 +11,21 @@ to my personal GitHub profile!
 </div>
 
 <h3 align="center">
-<a href="https://alierkilic.com">Visit my personal homepage
+<a href="https://alierkilic.com" target="_blank" rel="noopener noreferrer">Visit my personal homepage
 <img src="https://github.com/alierkilic/alierkilic/blob/master/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
 
 <hr>
 
+<i>Random dev joke for you! (click to create new one ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
+<hr>
+
 <div align="center">
 <p>Write something nice in my guest book:</p>
-<a href="https://github.com/alierkilic/alierkilic/issues"><img src="https://github.com/alierkilic/alierkilic/blob/master/img/guestbook.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/alierkilic/alierkilic/issues" target="_blank" rel="noopener noreferrer"><img src="https://github.com/alierkilic/alierkilic/blob/master/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
 <hr>
