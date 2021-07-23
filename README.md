@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://github.com/alierkilic/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+<img src="https://github.com/alierkilic/alierkilic/raw/alierkilic/img/fan-1.gif" alt="Fan" align="center">
 </div>
 
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+<img src="https://github.com/alierkilic/alierkilic/raw/alierkilic/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@ to my personal GitHub profile!
 
 <h3 align="center">
 <a href="https://alierkilic.com">Visit my personal homepage
-<img src="https://github.com/alierkilic/alierkilic/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
+<img src="https://github.com/alierkilic/alierkilic/raw/alierkilic/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
 
