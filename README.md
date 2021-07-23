@@ -38,5 +38,5 @@ to my personal GitHub profile!
 </div>
 
 <div align="center">
-<img src="https://github.com/alierkilic/alierkilic/blob/master/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
+<img src="https://github.com/alierkilic/alierkilic/blob/master/img/ie.jpeg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
