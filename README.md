@@ -19,8 +19,8 @@ to my personal GitHub profile!
 <hr>
 
 <div align="center">
-<i align="center">Random dev joke for you! (click to create new one ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=%tokyonight" alt="README Jokes"></a>
+<i align="center">Random dev joke for you!</i><br>
+<img align="center" src="https://readme-jokes.vercel.app/api?theme=%tokyonight" alt="README Jokes">
 </div>
 <hr>
 
