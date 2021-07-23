@@ -49,5 +49,7 @@ to my personal GitHub profile!
 
 <hr>
 <div align="center">
-  <img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alierkilic&custom_title=Alie%20NErkilic's%20Contribution%20Graph&theme=react-dark" />
+<img alt="Ali's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alierkilic&custom_title=Ali%20Erkilic's%20Contribution%20Graph&theme=react-dark&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"/>
+  
 </div>
+
